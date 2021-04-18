@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Quentin1911
+- 👀 I’m interested in mechanic and programming
+- 🌱 I’m currently learning Pyhton
+- 📫 How to reach me biard98@gmail.com
